@@ -4,7 +4,7 @@ class Weztermocil < Formula
   url "https://github.com/alexcaza/weztermocil/archive/v0.1.0.tar.gz"
   license "MIT"
   head "https://github.com/alexcaza/weztermocil.git", branch: "main"
-  version "0.1.0"
+  version "0.1.1"
 
   depends_on "rust" => :build
 
