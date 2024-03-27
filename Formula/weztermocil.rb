@@ -1,7 +1,7 @@
 class Weztermocil < Formula
   desc "Automate opening windows and panes with commands in Wezterm (like Teamocil or iTermocil)."
   homepage "https://github.com/alexcaza/weztermocil"
-  url "https://github.com/alexcaza/weztermocil/archive/v0.1.0.tar.gz"
+  url "https://github.com/alexcaza/weztermocil/archive/v0.1.1.tar.gz"
   license "MIT"
   head "https://github.com/alexcaza/weztermocil.git", branch: "main"
   version "0.1.1"
